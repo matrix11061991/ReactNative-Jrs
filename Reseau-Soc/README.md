@@ -1,0 +1,2 @@
+# C'est quoi ?
+Ce code crée une application React Native avec une navigation basée sur des piles et une gestion de l'état de l'application avec Redux. L'application vérifie également l'authentification des utilisateurs avec Firebase lors du chargement de l'application et affiche l'écran de connexion si l'utilisateur n'est pas connecté. Vous pouvez utiliser ce code comme point de départ pour développer votre propre application de réseau social en ajoutant ou en modifiant le code selon vos besoins.
