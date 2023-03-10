@@ -1,1 +1,4 @@
-# summary of the essentials at the baccalaureate
+# summary of the essentials at the bacc:
+## Mathematics
+## Physics
+## Philosophy
