@@ -145,7 +145,7 @@ export const chapterDataMath = {
         },
         {
           ti: "Suppression d'éléments d'une liste:",
-          details: "Pour créer une liste en Python, vous devez déclarer une variable et lui attribuer une liste de valeurs en les entourant de crochets [] et en les séparant par des virgules. Voici un exemple de création d'une liste contenant des nombres entiers : 'liste_entiers = [1, 2, 3, 4, 5]' ",
+          details: "Pour créer une <strong>liste</strong> en Python, vous devez déclarer une variable et lui attribuer une liste de valeurs en les entourant de crochets [] et en les séparant par des virgules. Voici un exemple de création d'une liste contenant des nombres entiers : <strong>liste_entiers = [1, 2, 3, 4, 5]</strong> ",
           hasImage: false,
         },
       ],
