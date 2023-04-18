@@ -1,2 +1,2 @@
 # ReactNative-Jrs
-Mes miniprojets en react native
+Liste de mes miniprojets en react native 
